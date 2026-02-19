@@ -19,4 +19,18 @@ A dynamic, interactive web application built with **React** that allows users to
 * **Libraries:**
     * `react-draggable`: For moving text components.
     * `react-component-export-image`: For converting the DOM nodes into downloadable images.
+---
+
+### 📬 Connect with Me
+
+**Yugank Rai**
+* **Email:** yugankrai.smn@gmail.com
+* **GitHub:** [@yugank-rai](https://github.com/yugank-rai)
+* **LinkedIn:** [Yugank Rai](https://www.linkedin.com/in/yugank-rai)
+
+---
+
+### 📄 License
+
+This project is open source and available under the **MIT License**.
 
